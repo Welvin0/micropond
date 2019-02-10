@@ -3,5 +3,5 @@
 
 <img src="IMG_0308.jpeg" height="666" width="500" >
 
-- Spirogyra? (Sample - 9/2/19, Teardrop Lakes, Loughton, Milton Keynes | Magnification - 640x)
+- Spirogyra? (Sample - 9/2/19, Teardrop Lakes, Loughton, Milton Keynes / Magnification - 640x)
 
