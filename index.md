@@ -1,2 +1,3 @@
 ## MicroPond
-![Unifentified Plant](IMG_0308.jpeg = 100x133)
+<img src="IMG_0308.jpeg" height="666" width="500" >
+
